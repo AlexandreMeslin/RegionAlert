@@ -1,0 +1,3 @@
+[submodule "AlertCity"]
+	path = AlertCity
+	url = https://github.com/AlexandreMeslin/AlertCity.git
